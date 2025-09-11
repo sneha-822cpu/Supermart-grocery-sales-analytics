@@ -1,4 +1,4 @@
-# Supermart Grocery Sales - Retail Analytics Dataset
+ **Supermart Grocery Sales - Retail Analytics Dataset**
 
 This project analyzes Supermart's retail sales data using Microsoft Excel. It includes data cleaning, pivot table analysis, and the creation of an interactive dashboard to drive business insights.
 
@@ -35,3 +35,19 @@ This project analyzes Supermart's retail sales data using Microsoft Excel. It in
 ⭐ Focus on high-performing categories and cities for marketing and stocking.
 
 ⭐ Reassess pricing/discount strategy for low-margin categories like Bakery.
+
+
+**HOW TO USE**
+
+Step 1: Download the Excel file from the project
+ folder.
+
+Step 2: Open it in Microsoft Excel (or any compatible spreadsheet tool).
+
+Step 3: Use the interactive dashboard on the final sheet:
+
+Step 4: Filter by Region, City, Category, and more.
+
+Step 5: Analyze metrics like Sales, Profit, Discounts, and Quantities.
+
+Step 6: Pivot tables are included for deeper breakdowns in the workbook.
