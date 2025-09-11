@@ -20,6 +20,10 @@ This project analyzes Supermart's retail sales data using Microsoft Excel. It in
 
 3) Interactive Dashboard built with slicers and charts.
 
+### 🖼️ Dashboard Preview
+
+![Dashboard](./project/supermart_dashboard.png)
+
 📈 Business Insights:
 
 👉 Highest Profits come from categories like Snacks and Beverages.
