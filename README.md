@@ -1,57 +1,27 @@
- **Supermart Grocery Sales - Retail Analytics Dataset**
+# 🛒 Supermart Grocery Sales Dashboard  
 
-This project analyzes Supermart's retail sales data using Microsoft Excel. It includes data cleaning, pivot table analysis, and the creation of an interactive dashboard to drive business insights.
+## 📌 Project Overview  
+This project analyzes **Supermarket Grocery Sales** using Excel to uncover key insights about **profitability, discount impact, and sales performance**.  
+The interactive dashboard enables users to track **profit by category, discount trends, regions, and yearly sales distribution**.  
 
-- Key Features:
+---
 
-1) Data cleaning & transformation for analysis-ready format.
+## 🔄 Project Workflow  
+1. **Data Cleaning** – Removed duplicates, handled missing values, standardized columns.  
+2. **Data Preparation** – Created calculated fields (Profit %, Discount Effect).  
+3. **Pivot Tables** – Built summaries for profit by category, region, discount, and year.  
+4. **Dashboard Design** – Combined charts and KPIs into a single interactive view.   
 
-2) Pivot Tables exploring key metrics like:
+---
 
-   a) Category vs Profit
+## 🔑 Insights  
+- Profitability is concentrated in specific **categories like Beverages, Snacks, and Dairy**.  
+- **Higher discounts do not always drive higher profits**—profit margins drop when discount percentage increases.  
+- **Regional analysis shows variations**, with some regions generating higher profits despite fewer orders.  
+- Consistent growth across years, with noticeable spikes in **2017 and 2018**.  
 
-   b)Discount vs Profit
+---
 
-   c)City-wise Top 10 Sales
-
-   d)Regional Sales & Profit Comparison
-
-   e)Product Mix and Margins
-
-3) Interactive Dashboard built with slicers and charts.
-
-### 🖼️ Dashboard Preview
-
-![Dashboard](./project/supermart_dashboard.png)
-
-📈 Business Insights:
-
-👉 Highest Profits come from categories like Snacks and Beverages.
-
-👉 Excessive Discounts (>30%) show a drop in profit margin.
-
-👉 Western Region contributes the most to revenue.
-
-✅ Recommendations:
-
-⭐ Limit discount ranges between 11–20% to maintain healthy profit margins.
-
-⭐ Focus on high-performing categories and cities for marketing and stocking.
-
-⭐ Reassess pricing/discount strategy for low-margin categories like Bakery.
-
-
-**HOW TO USE**
-
-Step 1: Download the Excel file from the project
- folder.
-
-Step 2: Open it in Microsoft Excel (or any compatible spreadsheet tool).
-
-Step 3: Use the interactive dashboard on the final sheet:
-
-Step 4: Filter by Region, City, Category, and more.
-
-Step 5: Analyze metrics like Sales, Profit, Discounts, and Quantities.
-
-Step 6: Pivot tables are included for deeper breakdowns in the workbook.
+## 💡 Recommendations  
+- Optimize discount strategy by **focusing on moderate discount ranges**.  
+- Strengthen promotions in **high-profit categories** to maximize returns.    
